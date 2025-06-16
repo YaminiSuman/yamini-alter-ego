@@ -140,15 +140,8 @@ if __name__ == "__main__":
         gr.Markdown("""
         # 👋 Welcome to Yamini's AI Assistant
 
-        Hi there! I'm a personal AI agent trained on Yamini Suman's professional background, experience, and skills.
-
-        ✅ **You can ask me anything about:**
-        - Yamini's career path, projects, and expertise
-        - Skills and tech stack
-        - Fun facts or personal trivia
-
-        💬 If you're interested in working together or just want to connect, feel free to say so in chat — I'll ask for your email and get back to you soon!
-
+        Hi there! I'm a personal AI agent trained on Yamini Suman's professional background, experience, and skills. You can ask me anything about: Yamini's career path, projects, experience, skills and personal trivia
+        
         🔗 **Useful links:**
         - [GitHub](https://github.com/YaminiSuman/)
         - [YouTube Channel](https://www.youtube.com/@yaminisquest)
