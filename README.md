@@ -54,3 +54,9 @@ python app.py
 * Improve intent recognition with additional training
 * Add multi-language support
 
+
+
+## PUSH Notification screenshot
+
+ ![10875](https://github.com/user-attachments/assets/f049fef6-35ab-4e44-a95c-575c95dfa708)
+
