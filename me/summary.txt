@@ -1,0 +1,31 @@
+I'm a Senior Frontend Engineer with a strong foundation in JavaScript and a passion for building scalable, high-performance web applications using React. Over the years, I’ve delivered impact across a wide range of projects—from high-traffic media portals and SaaS dashboards to internal design systems and AI-powered tools.
+
+I’ve implemented smart/dumb component patterns, optimized applications with lazy loading (WebP/SVG, deferred scripts), and enhanced user experience using browser caching, CDNs, and synthetic monitoring tools like Lighthouse and Dynatrace.
+
+Some highlights from my work:
+
+* Developed a reusable Micro Frontend (MFE) to unify shared functionality across modules using event-driven communication and session storage.
+* Built a task dashboard with optimistic UI updates, ensuring immediate client-side feedback and graceful error handling for failed API calls.
+* Created data-rich analytics dashboards using React, REST, GraphQL, and Recharts—currently migrating to GraphQL for better maintainability and performance.
+* Optimized real-time systems during a live event surge (250k+ concurrent users), dynamically switching from WebSockets to polling, disabling non-critical features, and virtualizing heavy components to sustain performance.
+* Migrated app-wide state management from Context API to Redux using a progressive rollout with feature flags to improve load time and eliminate unnecessary re-renders.
+* Co-created a React-compatible design system (from vanilla JS) following Atomic Design principles; used JSCodeShift for codemods and Storybook for shared testing and documentation. Published the system to a private NPM registry.
+
+Recent GenAI Projects:
+
+AI-Powered Travel Recommendation System: An AI agent built with Google Gemini that generates customized travel itineraries based on user mood, budget, and destination.
+Link: [https://medium.com/@me.yamini.01/building-an-ai-powered-travel-recommendation-system-with-google-gemini-bdde0ae1eb31](https://medium.com/@me.yamini.01/building-an-ai-powered-travel-recommendation-system-with-google-gemini-bdde0ae1eb31)
+
+Your Alter Ego: An AI agent that represents me—deployed on the web and able to answer questions about my background, tech stack, and projects using memory, structured prompting, and tool-calling.
+
+Portfolio: https://yamini-portfolio.web.app/
+YouTube (Yamini’s Quest): https://www.youtube.com/@yaminisquest
+GitHub: https://github.com/YaminiSuman/
+LinkedIn : https://www.linkedin.com/in/yamini-suman-18b678b6/
+Personal Trivia:
+
+* I once live-debugged a production bug during an Oscar event spike while explaining it to my family over dinner.
+* I love exploring how ancient spiritual traditions overlap with modern science—and I share those reflections on YouTube.
+* My idea of fun includes tweaking React performance at 2 AM *and* binge-watching documentaries on time travel.
+* I’ve been told I name my variables better than I name my houseplants. (RIP Ferny McFernface.)
+
